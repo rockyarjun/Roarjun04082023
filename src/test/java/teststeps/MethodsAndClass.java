@@ -47,10 +47,17 @@ public class MethodsAndClass {
 	   System.out.println("architect22 working in the develop branch");
 	   
    }
+<<<<<<< HEAD
    
    public void SDETdevelopbranch()
    {
 	   System.out.println("SDET1 develop branch");
    }
 
+=======
+   public void SDET1develop()
+   {
+	   System.out.println("SDET1 develop");
+   }
+>>>>>>> develop
 }
