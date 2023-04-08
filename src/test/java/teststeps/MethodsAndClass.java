@@ -29,6 +29,9 @@ public class MethodsAndClass {
 	   System.out.println("print the url");
 	   System.out.println("jira comment 1");
 	   System.out.println("jira comment 2");
+	   System.out.println("jira sdet1");
+	   System.out.println("browser automation by sdet1");
+	   System.out.println("browser automation by sdet2");
 	   return "Rahul";
    }
 
