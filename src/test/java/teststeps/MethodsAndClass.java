@@ -47,5 +47,8 @@ public class MethodsAndClass {
 	   System.out.println("architect22 working in the develop branch");
 	   
    }
-
+   public void SDET1develop()
+   {
+	   System.out.println("SDET1 develop");
+   }
 }
