@@ -34,5 +34,18 @@ public class MethodsAndClass {
 	   System.out.println("browser automation by sdet2");
 	   return "Rahul";
    }
+   public static  void getUrlData1()
+   {
+	   System.out.println("architect1 working in the develop branch");
+	   System.out.println("architect2 working in the develop branch");
+	   
+   }
+   
+   public static  void getUrlData2()
+   {
+	   System.out.println("architect12 working in the develop branch");
+	   System.out.println("architect22 working in the develop branch");
+	   
+   }
 
 }
